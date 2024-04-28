@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Triqquath
+- 👀 I’m interested in web development  
+- 🌱 I’m currently learning HTML CSS and JS
+- 💞️ I’m looking to collaborate on nothing unless well paid
+- 📫 How to reach me idk
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm very young
+- Thanks for checking out my readme!
